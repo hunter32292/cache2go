@@ -1,6 +1,5 @@
 dist: trusty
 language: go
-go_import_path: .
 sudo: false
 
 go:
