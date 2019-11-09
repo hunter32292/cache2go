@@ -1,6 +1,6 @@
 dist: trusty
 language: go
-go_import_path: src/hunter32292.github.com/cache2go 
+go_import_path: .
 sudo: false
 
 go:
@@ -10,9 +10,5 @@ notifications:
     on_success: never
     on_failure: never
 
-
-before_install:
-    - go get -v -u github.com/gorilla/mux
-
 script:
-    - go build -o cache2go src/hunter32292.github.com/cache2go/*.go 
+    - go build -o cache2go 
