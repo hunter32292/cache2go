@@ -1,3 +1,5 @@
 github.com/gorilla/mux v1.7.3 h1:gnP5JzjVOuiZD07fKKToCAOjS0yOpj/qPETTXCCS6hw=
 github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/hunter32292/cache2go v0.0.0-20170602000941-b3bcfe6b786e h1:PHn0nQaNQ+SLyGVJlC1DtDMdKe7LlZ0OrPfELsXDfz4=
+github.com/hunter32292/cachego v0.0.0-20170602000941-b3bcfe6b786e h1:PHn0nQaNQ+SLyGVJlC1DtDMdKe7LlZ0OrPfELsXDfz4=
+github.com/hunter32292/cachego v0.0.0-20200422025834-a1c3953e78f7 h1:tKJu1LvBBm3BD2pcqpzCTUpGPQo0FTTK1RvSbtItmR4=
