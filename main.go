@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/hunter32292/cachego/pkg/cache"
+	cache "github.com/hunter32292/cachego/pkg"
 )
 
 func main() {

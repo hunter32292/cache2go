@@ -1,4 +1,4 @@
-module github.com/hunter32292/cache
+module github.com/hunter32292/cachego
 
 go 1.13
 

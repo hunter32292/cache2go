@@ -12,7 +12,7 @@ Current project goals:
   - REST endpoints for (Create,Show,Find,Delete)
 
 ### Tech
-cache2go uses:
+cachego uses:
 
 * [Mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang.
 
