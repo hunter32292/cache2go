@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/hunter32292/cache2go/pkg/cache"
+	"github.com/hunter32292/cachego/pkg/cache"
 )
 
 func main() {
