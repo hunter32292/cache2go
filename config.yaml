@@ -1,0 +1,7 @@
+# The host that the service will run on
+host: "localhost"
+# The port on which the service will be exposed
+port: "8080"
+# The storage that will be used for the service
+# internal, disk, mySQL, postgresql
+store:  "internal"
